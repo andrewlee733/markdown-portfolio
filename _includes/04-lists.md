@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Legend of Zelda :shield:
+  * Wind Waker :ocean::boat:
+  * Link's Awakening :desert_island::owl:
+* Other stuff...
+* Etc...
